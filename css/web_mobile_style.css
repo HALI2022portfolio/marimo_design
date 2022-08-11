@@ -1,0 +1,50 @@
+@charset="utf-8";
+*{margin:0;padding:0;}
+body{
+background-color:#a7d0ca;
+}
+
+body div:nth-child(1) img,
+body div:nth-child(2) img,
+body div:nth-child(3) img,
+body div:nth-child(4) img,
+body div:nth-child(5) img,
+body div:nth-child(6) img,
+body div:nth-child(7) img,
+body div:nth-child(8) img,
+body div:nth-child(9) img,
+body div:nth-child(10) img,
+body div:nth-child(11) img,
+body div:nth-child(12) img,
+body div:nth-child(13) img,
+body div:nth-child(14) img,
+body div:nth-child(15) img,
+body div:nth-child(16) img,
+body div:nth-child(17) img,
+body div:nth-child(18) img,
+body div:nth-child(19) img,
+body div:nth-child(20) img,
+body div:nth-child(21) img{
+  width: 1320px;
+  margin:0 auto;
+  display: block;
+}
+.fixed{
+  width: 53px;
+  height: 255px;
+  margin-bottom: 20px;
+  position: fixed;
+  right:100px;
+  bottom:100px;
+}
+.fixed:hover{
+  opacity:0.8;
+}
+.fixed2{
+  position: fixed;
+  right:100px;
+  bottom:40px;
+}
+.fixed2:hover{
+  opacity:0.8;
+}
